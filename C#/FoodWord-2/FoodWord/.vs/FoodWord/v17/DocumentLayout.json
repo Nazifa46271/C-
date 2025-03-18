@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\FoodWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|d:\\code\\c#\\foodword\\paymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:paymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\paymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:paymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\foodlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:foodlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\forgetpasswword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:forgetpasswword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\forgetpasswword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:forgetpasswword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\customerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:customerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\customerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:customerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\sqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:sqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|D:\\CODE\\C#\\FoodWord\\foodlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C0E0E-BEB3-43A5-9E8F-9579CC48A742}|FoodWord.csproj|solutionrelative:foodlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Homepage.cs",
+              "RelativeDocumentMoniker": "Homepage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Homepage.cs",
+              "RelativeToolTip": "Homepage.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:39:01.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentList.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\PaymentList.cs",
+              "RelativeDocumentMoniker": "PaymentList.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\PaymentList.cs",
+              "RelativeToolTip": "PaymentList.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:50:22.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodList.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\FoodList.cs",
+              "RelativeDocumentMoniker": "FoodList.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\FoodList.cs [Design]",
+              "RelativeToolTip": "FoodList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:36.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Homepage.cs",
+              "RelativeDocumentMoniker": "Homepage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Homepage.cs [Design]",
+              "RelativeToolTip": "Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:56.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\LoginPage.cs [Design]",
+              "RelativeToolTip": "LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:39:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Payment.cs [Design]",
+              "RelativeToolTip": "Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:39:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentList.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\PaymentList.cs",
+              "RelativeDocumentMoniker": "PaymentList.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\PaymentList.cs [Design]",
+              "RelativeToolTip": "PaymentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:40:11.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationPage.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\RegistrationPage.cs",
+              "RelativeDocumentMoniker": "RegistrationPage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\RegistrationPage.cs [Design]",
+              "RelativeToolTip": "RegistrationPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:40:17.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:47:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgetPasswword.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\ForgetPasswword.cs",
+              "RelativeDocumentMoniker": "ForgetPasswword.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\ForgetPasswword.cs",
+              "RelativeToolTip": "ForgetPasswword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:48:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\RegistrationPage.cs",
+              "RelativeDocumentMoniker": "RegistrationPage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\RegistrationPage.cs",
+              "RelativeToolTip": "RegistrationPage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:53:47.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerInput.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\CustomerInput.cs",
+              "RelativeDocumentMoniker": "CustomerInput.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\CustomerInput.cs",
+              "RelativeToolTip": "CustomerInput.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:47:38.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\LoginPage.cs",
+              "RelativeToolTip": "LoginPage.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:47:29.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:32.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\AdminPage.cs",
+              "RelativeDocumentMoniker": "AdminPage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\AdminPage.cs",
+              "RelativeToolTip": "AdminPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:48:23.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminPage.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\AdminPage.cs",
+              "RelativeDocumentMoniker": "AdminPage.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\AdminPage.cs [Design]",
+              "RelativeToolTip": "AdminPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:29.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddFood.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\AddFood.cs",
+              "RelativeDocumentMoniker": "AddFood.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\AddFood.cs",
+              "RelativeToolTip": "AddFood.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAUwE0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:23.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddFood.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\AddFood.cs",
+              "RelativeDocumentMoniker": "AddFood.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\AddFood.cs [Design]",
+              "RelativeToolTip": "AddFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:35:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgetPasswword.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\ForgetPasswword.cs",
+              "RelativeDocumentMoniker": "ForgetPasswword.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\ForgetPasswword.cs [Design]",
+              "RelativeToolTip": "ForgetPasswword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:52.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerInput.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\CustomerInput.cs",
+              "RelativeDocumentMoniker": "CustomerInput.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\CustomerInput.cs [Design]",
+              "RelativeToolTip": "CustomerInput.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:34.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\UserControl1.cs",
+              "RelativeToolTip": "UserControl1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:48:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAJEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:38:25.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sqlcon.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\sqlcon.cs",
+              "RelativeDocumentMoniker": "sqlcon.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\sqlcon.cs",
+              "RelativeToolTip": "sqlcon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:32:49.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Payment.cs",
+              "RelativeToolTip": "Payment.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:56:39.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:40:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FoodList.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\FoodWord\\FoodList.cs",
+              "RelativeDocumentMoniker": "FoodList.cs",
+              "ToolTip": "D:\\CODE\\C#\\FoodWord\\FoodList.cs",
+              "RelativeToolTip": "FoodList.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIAwwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:31:29.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
